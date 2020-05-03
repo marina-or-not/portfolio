@@ -1,31 +1,37 @@
 +++
 draft = false
-image = "img/portfolio/envelope-brand.jpg"
+image = "img/portfolio/poezdrita.jpg"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
-title = "Item with image"
-weight = 9
+title = "Train Leaves On Schedule"
+weight = 7
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Dance theatre piece (50’). 
+2016-2018, Moscow.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Choreographer.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+With Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Abstract interpretation of a personal experience of being institutionalised Soviet-style.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
+![train2][1]
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![train11][2]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![train38][3]
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+
+Trailer
+{{< youtube W3Y4MdvndG8 >}}
+
+
+/
+photos by Margarita Denisova
+[1]: /img/portfolio/train2.jpg
+[2]: /img/portfolio/train11.jpg
+[3]: /img/portfolio/train-38.jpg
