@@ -1,26 +1,26 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+image = "img/portfolio/lezhu.png"
+date = "2020-05-03T18:25:22+05:30"
+title = "IN PROGRESS"
 weight = 0
 +++
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
-{{< youtube G-gA1l8AUGY >}}
+unfinished business // coming soon
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![golovy][1]
 
-## Header Level 2
+A future videowork and exibhition that comes out of a collaboration with videoartist Nastya Kuzmina and dance dramaturg Liza Spivakovskaya
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![box1][2]
+![box2][3]
+![box3][4]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+photo credit - Nastya Kuzmina
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/SDVIG.png
+[2]: /img/portfolio/boxscan1.jpg
+[3]: /img/portfolio/boxscan2.jpg
+[4]: /img/portfolio/boxscan3.jpg

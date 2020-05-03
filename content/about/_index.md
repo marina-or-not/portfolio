@@ -1,21 +1,26 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About my practice"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+As a choreographer I mainly make movement-based performances and video dance works, also using voice and text. 
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+In my work I combine conceptual and processual approaches. I start with an idea or desire, then dive into not-knowing and when I almost drown in it, a concept always comes to the surface. I believe that creation is a dialogue with the material and concepts have their own way of unfolding and directing the work more than I ever can.
 
-![This is me][1]
+I am constantly researching how the contexts I live and work in are influencing my creations and I am observing how personal domain interacts with artistic. I gave up on trying to separate them. 
+Despair is one of my main choreographic tools. 
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+I am deliberately escaping “finding my aesthetics”, that would be the end of the adventure, but some artistic interests and topics have stuck with me:
+absurdism, surrealism, mix of fictive, abstract and real; 
+concepts and aesthetics of failure and inefficiency; 
+meaning-making, (mis)communication; 
+intersection between visual and sonic; 
+tension between individual and collective, displacement. 
 
-#### Education
+Lately my ideas spin around the topic of neurodivergence. Having first-hand experience with this topic, I am researching on the ways to make it into material, without illustration or representation, and, in the same time, how to make the topic visible without putting it on my flag (I'm not a fan of flags of any kind).
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+I have been inside and outside of my own works and performed for my colleagues.Collaboration and co-authorship is the best way to create for me.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+![port][1]
 
-[1]: /img/about.jpg
+[1]: /img/portfolio/portrait.jpg
