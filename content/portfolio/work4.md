@@ -8,7 +8,7 @@ weight = 3
 +++
 
 Research for a dance concert  
-With Peter Scherrebeck Hansen
+In collaboration with Peter Scherrebeck Hansen
 
 2019, Amsterdam.
 <!--more-->
