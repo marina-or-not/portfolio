@@ -21,6 +21,7 @@ Abstract interpretation of a personal experience of being institutionalised Sovi
 ![train2][1]
 
 ![train11][2]
+photos by Margarita Denisova
 
 ![train38][3]
 
@@ -28,10 +29,10 @@ Abstract interpretation of a personal experience of being institutionalised Sovi
 
 Trailer
 {{< youtube W3Y4MdvndG8 >}}
+by Alexey Elagin
 
 
-/
-photos by Margarita Denisova
+
 [1]: /img/portfolio/train2.jpg
 [2]: /img/portfolio/train11.jpg
 [3]: /img/portfolio/train-38.jpg
