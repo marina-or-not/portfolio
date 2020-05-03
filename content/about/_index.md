@@ -22,6 +22,6 @@ Lately my ideas spin around the topic of neurodivergence. Having first-hand expe
 I have been inside and outside of my own works and performed for my colleagues. 
 Collaboration and co-authorship is the best way to create for me.
 
-![porportrait][1]
+![portrait][1]
 
-[1]: /img/portfolio/portrait.jpg
+[1]: /img/portfolio/poc.png
