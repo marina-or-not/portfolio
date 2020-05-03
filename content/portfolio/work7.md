@@ -1,31 +1,31 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "img/portfolio/boyancy1.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Name of the work 7"
+title = "Buoyancy"
 draft = false
-weight = 7
+weight = 5
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Dance solo (14’). 
+
+June 2018, Amsterdam.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Choreographer, performer.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+A solo that translates the state of human being after changing countries into movements and walls. (Almost site-specific).
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![boyancy2][1]
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Buoyancy - is the weight of displaced fluid.
 
-## Header Level 2
+{{< vimeo 303885255 >}}
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Since I moved to Amsterdam, in all my fluids I feel very much displaced. Also, it seems that this year I became heavier than ever.
+This piece you can regard as an attempt to float, to find something to trust in this new life.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Camera, montage: Laima Jaunzema.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/boyancy2.jpg

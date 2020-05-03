@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/lezhu.png"
 date = "2020-05-03T18:25:22+05:30"
 title = "IN PROGRESS"
-weight = 0
+weight = 1
 +++
 <!--more-->
 

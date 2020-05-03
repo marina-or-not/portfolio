@@ -19,8 +19,9 @@ tension between individual and collective, displacement.
 
 Lately my ideas spin around the topic of neurodivergence. Having first-hand experience with this topic, I am researching on the ways to make it into material, without illustration or representation, and, in the same time, how to make the topic visible without putting it on my flag (I'm not a fan of flags of any kind).
 
-I have been inside and outside of my own works and performed for my colleagues.Collaboration and co-authorship is the best way to create for me.
+I have been inside and outside of my own works and performed for my colleagues. 
+Collaboration and co-authorship is the best way to create for me.
 
-![port][1]
+![porportrait][1]
 
 [1]: /img/portfolio/portrait.jpg

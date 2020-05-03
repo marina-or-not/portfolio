@@ -4,7 +4,7 @@ title = "BIAS"
 draft = false
 image = "img/portfolio/tv3.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 Dance piece (35’).
@@ -13,10 +13,13 @@ November 2019, Amsterdam.
 <!--more-->
 
 Concept, choreographer, performer. 
-(with Tea Teearu and Alexander Blum).
 
-{{< youtube G-gA1l8AUGY >}}
+With: Tea Teearu and Alexander Blum.
+
+Advisors: Ria Higler, Tomisav Feller.
+
 How to build a language with fake gestures, semi-abstract movements and let it all fall.
+
 
 ![bias1][1]
 
@@ -27,6 +30,10 @@ How to build a language with fake gestures, semi-abstract movements and let it a
 ![bias4][4]
 
 Photos by Nellie de Boer
+
+{{< youtube G-gA1l8AUGY >}}
+
+Obviously, our perception is in most cases inclined towards one of the senses, one of the meanings, one of the possible positions. And then we transmit it in language, often. So what happens in that space between signifier and signified, can we merge them, can we swap them? How is a connotation built, can we lay some bricks? What level of abstraction has to be in the room for that? Everything else here is personal.
 
 [1]: /img/portfolio/bias1.jpg
 [2]: /img/portfolio/bias2.jpg
