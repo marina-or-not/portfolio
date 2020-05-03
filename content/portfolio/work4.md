@@ -13,8 +13,6 @@ With Peter Scherrebeck Hansen
 2019, Amsterdam.
 <!--more-->
 
-Rich & Debs are presenting
-
 ![dra1][1]
 
 ![dra2][2]
@@ -23,6 +21,8 @@ Rich & Debs are presenting
 
 ![dra4][4]
 
+
+{{< youtube XtUa4ShY_LY >}}
 
 [1]: /img/portfolio/dragons1.png
 [2]: /img/portfolio/drangons2.png
