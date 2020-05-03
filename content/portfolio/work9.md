@@ -11,8 +11,7 @@ Dance theatre piece (50’).
 2016-2018, Moscow.
 <!--more-->
 
-Choreographer.
-
+Choreographer.  
 With Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev.
 
 Abstract interpretation of a personal experience of being institutionalised Soviet-style.

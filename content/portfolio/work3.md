@@ -15,10 +15,8 @@ April 2019, Amsterdam.
 We are the terminal.
 Stay tuned.
 
-Concept, choreographer, performer. 
-
-With Julia Vavra.
-
+Concept, choreographer, performer.   
+With Julia Vavra.  
 Advisors: Eva Susova, Bruno Listopad.
 
 Voice, text, fictional and real stories, movements that can or cannot speak, treatments, commercials and listeners’ calls - all improvised “on air”.

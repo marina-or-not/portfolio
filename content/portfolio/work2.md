@@ -12,10 +12,8 @@ Dance piece (35’).
 November 2019, Amsterdam.
 <!--more-->
 
-Concept, choreographer, performer. 
-
-With: Tea Teearu and Alexander Blum.
-
+Concept, choreographer, performer.   
+With: Tea Teearu and Alexander Blum.  
 Advisors: Ria Higler, Tomisav Feller.
 
 How to build a language with fake gestures, semi-abstract movements and let it all fall.

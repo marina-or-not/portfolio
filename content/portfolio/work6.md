@@ -14,9 +14,8 @@ Short movie (7’43’’).
 October 2018, Amsterdam.
 <!--more-->
 
-Directing, camera, editing.
-
-with Julia Vavra, Karina Villafan, Johhan Rosenberg, Andreas Hannes.
+Directing, camera, editing.  
+Цith Julia Vavra, Karina Villafan, Johhan Rosenberg, Andreas Hannes.
 
 /if there were feelings instead of water in the ocean, and people were some fish in it,
 i would become a bubble of air coming to the surface when they endeavour to communicate/
