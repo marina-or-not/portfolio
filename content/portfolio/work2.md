@@ -9,7 +9,7 @@ weight = 2
 
 Dance piece (35’).
 
-November 2019, Amsterdam.
+2019, Amsterdam.
 <!--more-->
 
 Concept, choreographer, performer.   

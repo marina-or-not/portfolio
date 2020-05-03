@@ -10,12 +10,12 @@ In my work I combine conceptual and processual approaches. I start with an idea 
 I am constantly researching how the contexts I live and work in are influencing my creations and I am observing how personal domain interacts with artistic. I gave up on trying to separate them. 
 Despair is one of my main choreographic tools. 
 
-I am deliberately escaping “finding my aesthetics”, that would be the end of the adventure, but some artistic interests and topics have stuck with me:  
-absurdism, surrealism, mix of fictive, abstract and real;  
-concepts and aesthetics of failure and inefficiency;   
-meaning-making, (mis)communication;   
-intersection between visual and sonic;   
-tension between individual and collective, displacement, layering.   
+I am deliberately escaping “finding my aesthetics”, that would be the end of the adventure, but some artistic interests and topics have stuck with me:
+absurdism, surrealism, mix of fictive, abstract and real; 
+concepts and aesthetics of failure and inefficiency; 
+meaning-making, (mis)communication; 
+intersection between visual and sonic; 
+tension between individual and collective, displacement. 
 
 Lately my ideas spin around the topic of neurodivergence. Having first-hand experience with this topic, I am researching on the ways to make it into material, without illustration or representation, and, in the same time, how to make the topic visible without putting it on my flag (I'm not a fan of flags of any kind).
 

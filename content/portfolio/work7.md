@@ -4,12 +4,12 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Buoyancy"
 draft = false
-weight = 5
+weight = 6
 +++
 
 Dance solo (14’). 
 
-June 2018, Amsterdam.
+2018, Amsterdam.
 <!--more-->
 
 Choreographer, performer.

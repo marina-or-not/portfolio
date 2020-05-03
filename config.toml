@@ -1,5 +1,5 @@
 baseurl = "https://marina-or-not.github.io/"
-title = "Creative portfolio"
+title = "Marina Orlova"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,11 +11,11 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "Marina Orlova, choreographer"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Choreographer",
+    "Born in Moscow in 1987, currently based in Amsterdam."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "marina.orl@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -42,26 +42,24 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Works"
   url = "portfolio/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "Statement"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "CV"
+  url = "CV/"
+
+  [[params.navlinks]]
+  name = "Contact"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  facebook      = "https://www.facebook.com/marina.orlova"
+  email         = "marina.orl@gmail.com"
+  instagram     = "https://www.instagram.com/marina.or.not/"
+  vimeo        = "https://vimeo.com/marinaorl"
