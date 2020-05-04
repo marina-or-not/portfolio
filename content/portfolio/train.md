@@ -28,7 +28,8 @@ photos by Margarita Denisova
 
 Trailer
 {{< youtube W3Y4MdvndG8 >}}
-by Alexey Elagin
+
+video by Alexey Elagin
 
 
 
