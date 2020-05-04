@@ -22,6 +22,12 @@ Lately my ideas spin around the topic of neurodivergence. Having first-hand expe
 I have been inside and outside of my own works and performed for my colleagues. 
 Collaboration and co-authorship is the best way to create for me.
 
-![portrait][1]
+![box1][2]
+![box2][3]
+![box3][4]
 
-[1]: /img/portfolio/poc.png
+photo credit - Nastya Kuzmina
+
+[2]: /img/portfolio/boxscan1.jpg
+[3]: /img/portfolio/boxscan2.jpg
+[4]: /img/portfolio/boxscan3.jpg

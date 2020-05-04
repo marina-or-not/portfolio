@@ -4,7 +4,7 @@ image = "img/portfolio/wave1.jpg"
 showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
 title = "The Wave"
-weight = 9
+weight = 10
 +++
 
 Dance installation

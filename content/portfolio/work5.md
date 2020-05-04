@@ -1,12 +1,18 @@
 +++
-image = ""
-showonlyimage = true
+image = "img/portfolio/unself.png"
+showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Name of the work 5"
-weight = 11
+title = "(Un)articulated Self"
+weight = 8
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Dance-movie in collaboration with Nastya Kuzmina.
+Moscow, 2016.
 <!--more-->
 
+Video, sound: Nastya Kuzmina
+Choreography: Marina Orlova
+Dance: Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev
+
+{{< youtube gFAkwtQQVpY >}}

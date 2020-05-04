@@ -12,15 +12,11 @@ unfinished business // coming soon
 
 ![golovy][1]
 
-A future videowork and exibhition that comes out of a collaboration with videoartist Nastya Kuzmina and dance dramaturg Liza Spivakovskaya
+Future videowork and exibhition that comes out of a collaboration with videoartist Nastya Kuzmina and dance dramaturg Liza Spivakovskaya
 
-![box1][2]
-![box2][3]
-![box3][4]
+![tails][2]
 
-photo credit - Nastya Kuzmina
+Future web series project in collaboration with multimedia duo 22 (Anna Shestakova and Ivan Susarin).
 
 [1]: /img/portfolio/SDVIG.png
-[2]: /img/portfolio/boxscan1.jpg
-[3]: /img/portfolio/boxscan2.jpg
-[4]: /img/portfolio/boxscan3.jpg
+[2]: /img/portfolio/withallthat.png
