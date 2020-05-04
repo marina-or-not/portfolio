@@ -7,23 +7,23 @@ title = "STRANDMOND"
 weight = 11
 +++
 
-a play
+*(please, do not dance)*  
 
+a play  
 2013, Moscow
 <!--more-->
+written in collaboration with Anastasia Matisova
+ 
 
-SNTRANDMOND  
-(please, do not dance)
 
-Characters:
-
-Guy - Eurasian type, around 30 years old  
-Girl - nice looking, 25 years old  
-Young man – a young man  
-Husband – middle-aged, salary little below the average  
-Wife - in the wheelchair  
-Manager – a sweating man with a name badge  
-Truck driver – wears a peaked cap, pulled over his eyes. 
+Characters:  
+Guy - _Caucasian type, around 30 years old_  
+Girl - _nice looking, 25 years old_  
+Young man – _a young man_  
+Husband – _middle-aged, salary little below the average_  
+Wife - _in the wheelchair_  
+Manager – _a sweating man with a name badge_  
+Truck driver – _wears a peaked cap, pulled over his eyes._ 
   
 
 Scene 1

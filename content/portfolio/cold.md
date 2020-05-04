@@ -20,5 +20,7 @@ Directing, camera, editing.
 /if there were feelings instead of water in the ocean, and people were some fish in it,
 i would become a bubble of air coming to the surface when they endeavour to communicate/
 
-{{< vimeo 295803584 >}}
+{{< vimeo 295803584 >}}  
+
+.
 

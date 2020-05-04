@@ -7,7 +7,7 @@ title = "The Wave"
 weight = 10
 +++
 
-Dance installation
+Dance installation at Contemporary Art Museum Garage.
 
 2016, Moscow
 
@@ -17,13 +17,16 @@ Choreographer.
 With the SOTA 2 team.  
 (http://dinakhuseyn.com/sota_2016_2)
 
-An unstoppable algorithm for 12 bodies.
-
 ![w2][1]
 
-![w3][2]
+![w3][2]  
 
-{{< vimeo 205100387 >}}
+An unstoppable algorithm for 12 bodies.
+
+{{< vimeo 205100387 >}}  
+
+.  
+
 
 [2]: /img/portfolio/wave2.jpg
 [1]: /img/portfolio/wave3.jpg

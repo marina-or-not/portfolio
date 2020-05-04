@@ -21,9 +21,13 @@ In collaboration with Peter Scherrebeck Hansen
 
 ![dra4][4]
 
-Work in progress presented in June 2019 at SNDO
+.
 
-{{< youtube XtUa4ShY_LY >}}
+{{< youtube XtUa4ShY_LY >}}  
+ 
+Work in progress presented in June 2019 at SNDO.  
+
+.
 
 [1]: /img/portfolio/dragons1.png
 [2]: /img/portfolio/drangons2.png

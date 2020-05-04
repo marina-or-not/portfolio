@@ -20,9 +20,8 @@ A solo that translates the state of human being after changing countries into mo
 
 Buoyancy - is the weight of displaced fluid.
 
-{{< vimeo 303885255 >}}
-
-
+{{< vimeo 303885255 >}}  
+.  
 Since I moved to Amsterdam, in all my fluids I feel very much displaced. Also, it seems that this year I became heavier than ever.
 This piece you can regard as an attempt to float, to find something to trust in this new life.
 

@@ -16,40 +16,40 @@ _Born in Moscow, Russia in 1987._
 
 #### Movement / Performance / Creation / Teaching experience
 
-2019    
+*2019*    
         "BIAS" - _dance performance_. Choreographer, dancer.  
         "All Along The Watchtower"  - _dance performance by Milena Weber_. Collaborator, performer.  
         "THE TERMINAL"  - _dance performance_. Choreographer, performer.   
         "Cloud Collision" - _dance performance by Andreas Hannes at Come Together Festival, Amsterdam_. Performer.  
 
-2018    
+*2018*    
         "IT'S COLD OUTSIDE"  - _short film_. Directing, camera, editing.   
         "Buoyancy"  - _a dance solo_. Choreographer, performer.  
         "Wrecked Chords"  - _dance piece by Laima Jaunzema_. Performer.
 
-2017          
+*2017*          
         "Original choice (Series)"  - _improvisation piece for a choreographer and a video-artist_. Shown in Zil Cultural Center, Moscow, Mousonturm, Frankfurt, Sdvig, St-Petersburg. Choreographer, performer.   
 
-2016        
+*2016*        
         Second Edition performance art collective. _Co-choreographer and performer of the pieces_  "Salt on the bottom", "Negative Space", "Room 03", "Untitled", "Upper layer" , _shown in various art festivals in Moscow_.  
         "(Un)articulated Self"  - _Video dance piece in collaboration with Nastya Kuzmina_, choreographer.   
 
-2016        
+*2016*        
         "Train Leaves on Schedule" -  _dance performance piece_. Author, choreographer.  
         "SOTA Performance Festival" _at Moscow Museum of Contemporary Art Garage_, choreographer and performer.   
         "Terra Nullius"  _performance project (by Andrey Andrianov and Taras Burnashev)_, performer.  
 
-2015-2017        
+*2015-2017*        
         Ohne Zucker dance project, _Moscow_. Collaborator and dancer in the piece "The Red Square", dancer in  "Episode 5".  
 
-2014-2015
+*2014-2015*
         Teching movement and performance at educational programs for teenagers and adults, _"Future Today" project_.
 
-2012-2017
+*2012-2017*
         Various workshops on contemporary dance, dance performance, contact improvisation, physical theatre, somatics and ideokinesis in Russia and Europe.  
 
-2012-2016  
+*2012-2016*  
         International Centre for Dance and Performance TsEKh (Moscow): regular classes in contemporary dance, performance, dance theatre.  
 
-2005-2010          
+*2005-2010*          
         Semi-professional theatre company in Moscow.

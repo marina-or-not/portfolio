@@ -29,8 +29,8 @@ How to build a language with fake gestures, semi-abstract movements and let it a
 
 Photos by Nellie de Boer
 
-{{< youtube G-gA1l8AUGY >}}
-
+{{< youtube G-gA1l8AUGY >}}  
+.  
 Obviously, our perception is in most cases inclined towards one of the senses, one of the meanings, one of the possible positions. And then we transmit it in language, often. So what happens in that space between signifier and signified, can we merge them, can we swap them? How is a connotation built, can we lay some bricks? What level of abstraction has to be in the room for that? Everything else here is personal.
 
 [1]: /img/portfolio/bias1.jpg
