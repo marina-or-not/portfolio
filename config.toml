@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Marina Orlova, choreographer"
-  copyright = "&copy;20162020 Marina Orlova"
+  copyright = "&copy;2020 Marina Orlova"
   sidebarAbout = [
     "Choreographer",
     "From Moscow, currently based in Amsterdam."
