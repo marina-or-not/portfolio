@@ -7,8 +7,9 @@ title = "(Un)articulated Self"
 weight = 8
 +++
 
-Dance-movie in collaboration with Nastya Kuzmina.
-Moscow, 2016.
+Dance-movie in collaboration with Nastya Kuzmina.  
+
+2016, Moscow.
 <!--more-->
 
 Video, sound: Nastya Kuzmina  
