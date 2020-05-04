@@ -11,8 +11,8 @@ Dance-movie in collaboration with Nastya Kuzmina.
 Moscow, 2016.
 <!--more-->
 
-Video, sound: Nastya Kuzmina
-Choreography: Marina Orlova
+Video, sound: Nastya Kuzmina  
+Choreography: Marina Orlova  
 Dance: Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev
 
 {{< youtube gFAkwtQQVpY >}}
