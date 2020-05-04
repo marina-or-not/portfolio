@@ -15,7 +15,7 @@ googleAnalytics = ""
   copyright = "&copy;2020 Marina Orlova"
   sidebarAbout = [
     "Choreographer",
-    "From Moscow, currently based in Amsterdam."
+    "From Moscow, based in Amsterdam."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
