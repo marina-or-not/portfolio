@@ -7,12 +7,12 @@ _Born in Moscow, Russia in 1987._
 
 #### Formal Educaction
 
-*2017-2021 (BA)* - **School for New Dance Development (SNDO)** at Amsterdam Academy of Theatre and Dance (AHK) - Choreography.  
-*2016* - **Interdisciplinary Contemporary Dance Study Programme “SOTA”** at Moscow Museum of Contemporary Art “Garage”.  
-*2013* - **Theatre Leader School, Meyerhold Theatre Centre and Moscow Department of Culture** - interdisciplinary study programme on theory and management of contemporary theatre.  
-*2010-2012 (MA)* - Russian State University for the Humanities - **Cultural Studies**.  
-*2006-2009* - Institute for Theoretical and Historical Studies in the Humanities - **Theatre Theory**.  
-*2005-2009 (BA)* - National University - Higher School of Economics - **Sociology**.
+*2017-2021 (BA)* - School for New Dance Development (SNDO) at Amsterdam Academy of Theatre and Dance (AHK) - ;*Choreography*.  
+*2016* - Interdisciplinary Contemporary Dance Study Programme “SOTA” at Moscow Museum of Contemporary Art “Garage”.  
+*2013* - Theatre Leader School, Meyerhold Theatre Centre and Moscow Department of Culture - interdisciplinary study programme on *theory and management of contemporary theatre*.  
+*2010-2012 (MA)* - Russian State University for the Humanities - *Cultural Studies*.  
+*2006-2009* - Institute for Theoretical and Historical Studies in the Humanities - *Theatre Theory*.  
+*2005-2009 (BA)* - National University - Higher School of Economics - *Sociology*.
 
 #### Movement / Performance / Creation / Teaching experience
 
