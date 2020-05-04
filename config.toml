@@ -52,7 +52,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "CV"
-  url = "CV/"
+  url = "cv/"
 
   [[params.navlinks]]
   name = "Contact"
