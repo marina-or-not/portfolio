@@ -12,9 +12,10 @@ Dance solo (14’).
 2018, Amsterdam.
 <!--more-->
 
-Choreographer, performer.
+Choreographer, performer.  
+Advisor: Noha Ramadan.
 
-A solo that translates the state of human being after changing countries into movements and walls. (Almost site-specific).
+A solo that translates the state of human being after changing countries into movements and walls. (Almost site-specific).  
 
 ![boyancy2][1]
 

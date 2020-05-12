@@ -15,6 +15,7 @@ Dance-movie in collaboration with Nastya Kuzmina.
 Video, sound: Nastya Kuzmina  
 Choreography: Marina Orlova  
 Dance: Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev
+Produced in collaboration with New Space Theatre of Nations.
 
 {{< youtube gFAkwtQQVpY >}}  
 

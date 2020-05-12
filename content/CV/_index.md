@@ -3,11 +3,14 @@ date = "2016-11-05T21:05:33+05:30"
 title = "CV"
 +++
 
+![glaz][1]
+
+
 _Born in Moscow, Russia in 1987._
 
 #### Formal Educaction
 
-*2017-2021 (BA)* - School for New Dance Development (SNDO) at Amsterdam Academy of Theatre and Dance (AHK) - ;*Choreography*.  
+*2017-2021 (BA)* - School for New Dance Development (SNDO) at Amsterdam Academy of Theatre and Dance (AHK) - *Choreography*.  
 *2016* - Interdisciplinary Contemporary Dance Study Programme “SOTA” at Moscow Museum of Contemporary Art “Garage”.  
 *2013* - Theatre Leader School, Meyerhold Theatre Centre and Moscow Department of Culture - interdisciplinary study programme on *theory and management of contemporary theatre*.  
 *2010-2012 (MA)* - Russian State University for the Humanities - *Cultural Studies*.  
@@ -43,7 +46,7 @@ _Born in Moscow, Russia in 1987._
         Ohne Zucker dance project, _Moscow_. Collaborator and dancer in the piece "The Red Square", dancer in  "Episode 5".  
 
 *2014-2015*
-        Teching movement and performance at educational programs for teenagers and adults, _"Future Today" project_.
+        Teaching movement and performance at educational programs for teenagers and adults, _"Future Today" project_.
 
 *2012-2017*
         Various workshops on contemporary dance, dance performance, contact improvisation, physical theatre, somatics and ideokinesis in Russia and Europe.  
@@ -52,4 +55,7 @@ _Born in Moscow, Russia in 1987._
         International Centre for Dance and Performance TsEKh (Moscow): regular classes in contemporary dance, performance, dance theatre.  
 
 *2005-2010*          
-        Semi-professional theatre company in Moscow.
+        Semi-professional theatre company in Moscow.  
+
+
+[1]: /img/portfolio/glazz.jpg

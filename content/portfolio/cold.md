@@ -15,7 +15,8 @@ Short movie (7’43’’).
 <!--more-->
 
 Directing, camera, editing.  
-Цith Julia Vavra, Karina Villafan, Johhan Rosenberg, Andreas Hannes.
+With Julia Vavra, Karina Villafan, Johhan Rosenberg, Andreas Hannes.
+Advisors: Marta Popivoda, Ward ten Voorde, Bruno Listopad.
 
 /if there were feelings instead of water in the ocean, and people were some fish in it,
 i would become a bubble of air coming to the surface when they endeavour to communicate/

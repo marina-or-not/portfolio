@@ -54,9 +54,6 @@ googleAnalytics = ""
   name = "CV"
   url = "cv/"
 
-  [[params.navlinks]]
-  name = "Contact"
-  url = "contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/marina.orlova"
