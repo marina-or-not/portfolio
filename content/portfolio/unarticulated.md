@@ -4,7 +4,7 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "(Un)articulated Self"
-weight = 8
+weight = 9
 +++
 
 Dance-movie in collaboration with Nastya Kuzmina.  

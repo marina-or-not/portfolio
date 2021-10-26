@@ -4,14 +4,15 @@ draft = false
 image = "img/portfolio/orch1.jpg"
 date = "2016-11-05T19:59:22+05:30"
 title = "Original Choice (Series)"
-weight = 7
+weight = 8
 +++
 
 Dance performance project (35-45’).
+2017, Moscow
 
 In collaboration with Nastya Kuzmina and Liza Spivakovskaya.
 
-2017, Moscow
+
 <!--more-->
 Produced in collaboration with ZIL Cultural Center, Moscow, and STANTSIA art venue, Kostroma, Russia.
 

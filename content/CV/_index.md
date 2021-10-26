@@ -17,7 +17,18 @@ _Born in Moscow, Russia in 1987._
 *2006-2009* - Institute for Theoretical and Historical Studies in the Humanities - *Theatre Theory*.  
 *2005-2009 (BA)* - National University - Higher School of Economics - *Sociology*.
 
-#### Movement / Performance / Creation / Teaching experience
+#### Creation / Performance / Movement / Teaching experience
+
+*2021*    
+        "Too much in the head"  - _dance performance at Frascati, Amsterdam_. Choreographer.
+        "Artists like me" - _dance performance by Julia Vavra_. Performer.
+        "Getting tropical, worst version"  - _dance performance by Karina Villafan_. Performer.
+
+*2020*    
+        "But I'm Just a Text" - _dance performance at Rose is a Rose is a Rose gallery, Amsterdam_. Choreographer.  
+        "Art on Delivery"  - _public performative project by Keerthi Basavarajaiah_. Collaborator, performer.  
+        "Luring Whispers"  - _dance performance by Keerthi Basavarajaiah at Veem House for performance_. Collaborator, performer.   
+        "Low Frequency (This is not a podcast)" - _an online choreographic object_. Choreographer, performer.  
 
 *2019*    
         "BIAS" - _dance performance_. Choreographer, dancer.  
@@ -28,16 +39,14 @@ _Born in Moscow, Russia in 1987._
 *2018*    
         "IT'S COLD OUTSIDE"  - _short film_. Directing, camera, editing.   
         "Buoyancy"  - _a dance solo_. Choreographer, performer.  
-        "Wrecked Chords"  - _dance piece by Laima Jaunzema_. Performer.
+        "Wrecked Chords"  - _dance piece by Laima Jaunzema at Frascati, Amsterdam_. Performer.
 
 *2017*          
         "Original choice (Series)"  - _improvisation piece for a choreographer and a video-artist_. Shown in Zil Cultural Center, Moscow, Mousonturm, Frankfurt, Sdvig, St-Petersburg. Choreographer, performer.   
-
-*2016*        
-        Second Edition performance art collective. _Co-choreographer and performer of the pieces_  "Salt on the bottom", "Negative Space", "Room 03", "Untitled", "Upper layer" , _shown in various art festivals in Moscow_.  
         "(Un)articulated Self"  - _Video dance piece in collaboration with Nastya Kuzmina_, choreographer.   
 
 *2016*        
+        Second Edition performance art collective. _Co-choreographer and performer of the pieces_  "Salt on the bottom", "Negative Space", "Room 03", "Untitled", "Upper layer" , _shown in various art festivals in Moscow_.         
         "Train Leaves on Schedule" -  _dance performance piece_. Author, choreographer.  
         "SOTA Performance Festival" _at Moscow Museum of Contemporary Art Garage_, choreographer and performer.   
         "Terra Nullius"  _performance project (by Andrey Andrianov and Taras Burnashev)_, performer.  
@@ -45,7 +54,7 @@ _Born in Moscow, Russia in 1987._
 *2015-2017*        
         Ohne Zucker dance project, _Moscow_. Collaborator and dancer in the piece "The Red Square", dancer in  "Episode 5".  
 
-*2014-2015*
+*2013-2015*
         Teaching movement and performance at educational programs for teenagers and adults, _"Future Today" project_.
 
 *2012-2017*
@@ -53,9 +62,6 @@ _Born in Moscow, Russia in 1987._
 
 *2012-2016*  
         International Centre for Dance and Performance TsEKh (Moscow): regular classes in contemporary dance, performance, dance theatre.  
-
-*2005-2010*          
-        Semi-professional theatre company in Moscow.  
 
 
 [1]: /img/portfolio/glazz.jpg
