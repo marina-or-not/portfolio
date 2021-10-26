@@ -44,7 +44,7 @@ Beginning of the research on how break the exhisting biases of AI, create an AI-
 AI in this piece is represented by a real text based neural network that was trained with the data from 15 3-hour interviews with artists coming from third world countries and currently living in the Netherlands.
 
 
-[1]: /img/portfolio/but1.jpg
-[2]: /img/portfolio/but2.jpg
-[3]: /img/portfolio/but3.jpg
-[4]: /img/portfolio/but4.jpg
+[1]: /img/portfolio/but1.jpeg
+[2]: /img/portfolio/but2.jpeg
+[3]: /img/portfolio/but3.jpeg
+[4]: /img/portfolio/but4.jpeg

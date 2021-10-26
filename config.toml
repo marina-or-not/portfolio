@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "Marina Orlova, choreographer"
   copyright = "&copy;2020 Marina Orlova"
   sidebarAbout = [
-    "Choreographer",
-    "From Moscow, based in Amsterdam."
+    "choreographer / dance artist",
+    "Moscow / Amsterdam"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -42,12 +42,12 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Works"
+  name = "works"
   url = "portfolio/"
   home = true
 
   [[params.navlinks]]
-  name = "Statement"
+  name = "my practice"
   url = "about/"
 
   [[params.navlinks]]

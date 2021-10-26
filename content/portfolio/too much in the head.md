@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "too much in the head"
 draft = false
-image = "img/portfolio/toomuch8.jpg"
+image = "img/portfolio/toomuch8.jpeg"
 showonlyimage = false
 weight = 1
 +++
@@ -53,10 +53,10 @@ The AI (Artificial Intelligence) in this piece is represented by a real text bas
 Photos by Sonya Golovkova
 
 
-[1]: /img/portfolio/toomuch1.jpg
-[2]: /img/portfolio/toomuch5.jpg
-[3]: /img/portfolio/toomuch6.jpg
-[4]: /img/portfolio/toomuch9.jpg
-[5]: /img/portfolio/toomuch11.jpg
-[6]: /img/portfolio/toomuch13.jpg
-[7]: /img/portfolio/toomuch14.jpg
+[1]: /img/portfolio/toomuch1.jpeg
+[2]: /img/portfolio/toomuch5.jpeg
+[3]: /img/portfolio/toomuch6.jpeg
+[4]: /img/portfolio/toomuch9.jpeg
+[5]: /img/portfolio/toomuch11.jpeg
+[6]: /img/portfolio/toomuch13.jpeg
+[7]: /img/portfolio/toomuch14.jpeg
