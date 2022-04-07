@@ -6,9 +6,9 @@ title = "CV"
 ![glaz][1]
 
 
-_Born in Moscow, Russia in 1987._
+_Born in Moscow, USSR in 1987._
 
-### Formal Educaction
+##### Formal Educaction
 
 2017-2021 (BA) - School for New Dance Development (SNDO) at Amsterdam Academy of Theatre and Dance (AHK) - *Choreography*.    
 2013 - Theatre Leader School, Meyerhold Theatre Centre and Moscow Department of Culture - interdisciplinary study programme on *theory and management of contemporary theatre*.  
@@ -16,7 +16,7 @@ _Born in Moscow, Russia in 1987._
 2006-2009 - Institute for Theoretical and Historical Studies in the Humanities - *Theatre Theory*.  
 2005-2009 (BA) - National University - Higher School of Economics - *Sociology*.
 
-### Own artistic works and projects
+##### Own artistic works and projects
 
 2022 - "A lot to unpack / Всё сложно" - dance performance (work in progress) at Stanislavsky Electrotheatre, Moscow. Choreographer, performer.  
 2021 - "Too much in the head" - dance performance at Frascati, Amsterdam. Choreographer.  
@@ -31,7 +31,7 @@ _Born in Moscow, Russia in 1987._
 2016 - "Train Leaves on Schedule" - dance performance piece, author, choreographer.  
 2016 - "The Wave" - dance installation at Moscow Museum of Contemporary Art Garage, choreographer.  
 
-### Collaborating and performing
+##### Collaborating and performing
 
 2021 - "Artists like me" - dance performance by Julia Vavra. Performer.  
 2021 - "Getting tropical", worst version - dance performance by Karina Villafan. Performer.  
@@ -47,7 +47,7 @@ _Born in Moscow, Russia in 1987._
 2015-2017 - Ohne Zucker dance project, Moscow. Collaborator and dancer of the piece "The Red Square" (2015), 
 dancer in "Episode 5" (2016).  
 
-### Residencies
+##### Residencies
 
 2022 - bi-residency, an alternative parasite residency, Cezens, France (postponed).  
 2021-2022 - Black Box / White Cube residency at the Meyerhold Centre, Moscow, Russia.  
@@ -56,14 +56,14 @@ dancer in "Episode 5" (2016).
 2017 - STANTSIA, Kostroma, Russia - production residency for choreographers.  
 2017 - ZIL Cultural Centre, Moscow, Russia - Residency for young choreographers.  
 
-### Teaching experience
+##### Teaching experience
 
 2013-2016, Russia - Independent educational project for teenagers and adults Future Today. Workshops on performance, movement research and composition.  
 2017, Leiden - Workshop for photograpahers on working through body.  
 2022, Moscow - Workshop for teenagers on concept development in artistic process.  
 2022, Den Haag - Workshop for art students of KABK on movement and concept development.  
 
-### Extra training
+##### Extra training
 
 2021-2022  Dangerous Mouses - movement practice group, Amsterdam.    
 2020  Interdisciplinary improvisation workshop by Katie Duck, Amsterdam.  
