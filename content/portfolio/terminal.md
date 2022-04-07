@@ -2,12 +2,12 @@
 image = "img/portfolio/terminal2.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "The Terminal"
+title = "Terminal"
 draft = false
-weight = 5
+weight = 6
 +++
 
-Radio dance piece (25’).
+Radio dance piece (25’).  
 2019, Amsterdam.
 <!--more-->
 

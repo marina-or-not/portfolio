@@ -4,12 +4,12 @@ image = "img/portfolio/itscold outside.png"
 date = "2016-11-05T19:56:17+05:30"
 title = "IT'S COLD OUTSIDE"
 showonlyimage = false
-weight = 6
+weight = 7
 +++
 
 Choreography of emotions.
 
-Short movie (7’43’’). 
+Short movie (7’43’’).  
 2018, Amsterdam.
 <!--more-->
 

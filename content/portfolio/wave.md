@@ -7,7 +7,7 @@ title = "The Wave"
 weight = 11
 +++
 
-Dance installation at Contemporary Art Museum Garage, part of SOTA@Garage festival programme. 
+Dance installation at Contemporary Art Museum Garage, part of SOTA@Garage festival programme.  
 
 2016, Moscow
 
