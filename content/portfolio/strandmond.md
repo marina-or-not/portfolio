@@ -4,7 +4,7 @@ image = ""
 showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "STRANDMOND"
-weight = 14
+weight = 15
 +++
 
 *(please, do not dance)*  

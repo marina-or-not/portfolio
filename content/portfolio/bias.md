@@ -4,7 +4,7 @@ title = "BIAS"
 draft = false
 image = "img/portfolio/tv3.jpg"
 showonlyimage = false
-weight = 4
+weight = 5
 +++
 
 How to build a language with fake gestures, semi-abstract movements and let it all fall.  

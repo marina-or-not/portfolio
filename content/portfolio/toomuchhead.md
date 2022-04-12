@@ -53,8 +53,17 @@ The AI (Artificial Intelligence) in this piece is represented by a real text bas
 
 ![toomuch14][7]
 
-Photos by Sonya Golovkova
+Photos by Sonya Golovkova  
 
+trailer   
+{{< youtube h3qW9Gko55Y >}}   
+
+
+video documentary about creation process  
+{{< youtube BT87kNC6mhk >}}  
+
+  
+camera - Saskia Habermann, Abhay Kumar; editing - Nastya Kuzmina.
 
 [1]: /img/portfolio/toomuch1.jpeg
 [2]: /img/portfolio/toomuch5.jpeg

@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Buoyancy"
 draft = false
-weight = 8
+weight = 9
 +++
 
 A dance solo that translates the state of human being after changing countries into movements and walls.
