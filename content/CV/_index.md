@@ -6,7 +6,8 @@ title = "CV"
 ![glaz][1]
 
 
-_Born in Moscow, USSR in 1987._
+_Born in Moscow, USSR in 1987._  
+_Based in Amsterdam, The Netherlands since 2017._
 
 ##### Formal Educaction
 
@@ -18,50 +19,61 @@ _Born in Moscow, USSR in 1987._
 
 ##### Own artistic works and projects
 
-2022 - "A lot to unpack / Всё сложно" - dance performance (work in progress) at Stanislavsky Electrotheatre, Moscow. Choreographer, performer.  
-2021 - "Too much in the head" - dance performance at Frascati, Amsterdam. Choreographer.  
-2020 - "But I’m Just a Text" - dance performance at Rose is a Rose is a Rose gallery, Amsterdam. Choreographer.  
-2020 - "Low Frequency (This is not a podcast)" - online choreographic object. Choreographer, performer.  
-2019 - "BIAS" - dance performance at SNDO. Choreographer, dancer.
-2019 - "TERMINAL" - dance performance at SNDO. Choreographer, performer.  
-2018 - "It’s Cold Outside" - short film. Directing, camera, editing.  
-2018 - "Buoyancy" - a dance solo at SNDO. Choreographer, performer.  
-2017 - "Original choice" (Series) - improvisation dance piece in collaboration with Nastya Kuzmina and Liza Spivakovskaya, Shown in Zil Cultural Center, Moscow, Mousonturm, Frankfurt, Sdvig, St-Petersburg. Choreographer, performer.  
-2016 - "(Un)articulated Self" - Video dance piece in collaboration with Nastya Kuzmina, choreographer.  
-2016 - "Train Leaves on Schedule" - dance performance piece, author, choreographer.  
-2016 - "The Wave" - dance installation at Moscow Museum of Contemporary Art Garage, choreographer.  
+2022 _"Therapy for AI"_ - research project.  
+2022 _"A lot to unpack / Всё сложно"_ - dance performance (work in progress) at Stanislavsky Electrotheatre, Moscow.  
+2021 _"Too much in the head"_ - dance performance at Frascati, Amsterdam.  
+2020 _"But I’m Just a Text"_ - dance performance at Rose is a Rose is a Rose gallery, Amsterdam.  
+2020 _"Low Frequency (This is not a podcast)_ - online choreographic object.   
+2019 _"BIAS"_ - dance performance at SNDO.  
+2019 _"TERMINAL"_ - dance performance at SNDO.  
+2018 _"It’s Cold Outside"_ - short film.  
+2018 _"Buoyancy"_ - a dance solo at SNDO.  
+2017 _"Original choice" (Series)_ - a dance piece in collaboration with Nastya Kuzmina and Liza Spivakovskaya. Shown in Zil Cultural Center, Moscow, Mousonturm, Frankfurt, Sdvig, St-Petersburg.  
+2016 _"(Un)articulated Self"_ - Video dance piece in collaboration with Nastya Kuzmina.  
+2016 _"Train Leaves on Schedule"_ - dance performance piece at Sputnik Stage, Moscow.  
+2016 _"The Wave"_ - dance installation at Moscow Museum of Contemporary Art Garage.  
 
 ##### Collaborating and performing
 
-2021 - "Artists like me" - dance performance by Julia Vavra. Performer.  
-2021 - "Getting tropical", worst version - dance performance by Karina Villafan. Performer.  
-2020 - "Art on Delivery" - performative project by Keerthi Basavarajaiah. Collaborator, performer.  
-2020 - "Luring Whispers" - dance performance by Keerthi Basavarajaiah at Veem House for performance, Amsterdam. Collaborator, performer.  
-2019 - "All Along The Watchtower" - dance performance by Milena Weber at SNDO. Collaborator, performer.  
-2018 - "CLOUD COLLISION" - dance performance by Andreas Hannes at Come Together Festival, Amsterdam. Performer.  
-2018 - "Wrecked Chords" - dance piece by Laima Jaunzema at Frascati, Amsterdam. Performer.  
-2016 - Second Edition performance art collective. Co-choreographer and performer of the pieces "Salt on the bottom", 
-"Negative Space", "Room 03", "Untitled", "Upper layer", shown in various art festivals in Moscow.  
-2016 - "SOTA Performance Festival" at  Moscow Museum of Contemporary Art Garage, collaborator and performer.  
-2016 - "Terra Nullius" performance project (by Andrey Andrianov and Taras Burnashev), performer.  
-2015-2017 - Ohne Zucker dance project, Moscow. Collaborator and dancer of the piece "The Red Square" (2015), 
+2022 - _We live here: Maastricht_ - research project by MOHA.  
+2022 - _Onze Roeping - On Joyful Militancy_ - performance by Mercedes Azpilicueta, shown at Rozenstraat – a rose is a rose is a rose, Kunstmuseum Liechtenstein.  
+2022 - _Corrupted Blood_ - a short film by Eric Giraudet. 
+2022 - _Goldfish Bleeding in a Sea of Sharks_ - performance project by Thais Di Marco at WORM, Rotterdam.  
+2021-2022 - _Better Worse_ - dance performance in collaboration with visual artists (Nastya Kuzmina, Nadia Chernova, Natasha Tikhonova, Ksenia Markelova) at Meyerhold Center, Moscow.   
+2021 - _Artists like me_ - dance performance by Julia Vavra.  
+2021 - _Getting tropical, worst version_ - dance performance by Karina Villafan.  
+2020 - _Art on Delivery_ - performative project by Keerthi Basavarajaiah.  
+2020 - _Luring Whispers_ - dance performance by Keerthi Basavarajaiah at Veem House for performance, Amsterdam.  
+2019 - _All Along The Watchtower_ - dance performance by Milena Weber at SNDO.  
+2018 - _CLOUD COLLISION_ - dance performance by Andreas Hannes at Come Together Festival, Amsterdam.  
+2018 - _Wrecked Chords_ - dance piece by Laima Jaunzema at Frascati, Amsterdam.  
+2016 - _Second Edition performance art collective_. Co-choreographer and performer of the pieces _Salt on the bottom_, 
+_Negative Space_, _Room 03_, _Untitled_, _Upper layer_, shown in various art festivals in Moscow.  
+2016 - _SOTA Performance Festival_ at  Moscow Museum of Contemporary Art Garage.  
+2016 - _Terra Nullius_ performance project (by Andrey Andrianov and Taras Burnashev).  
+2015-2017 - _Ohne Zucker dance project_, Moscow. Collaborator and dancer of the piece "The Red Square" (2015), 
 dancer in "Episode 5" (2016).  
 
 ##### Residencies
 
-2022 - bi-residency, an alternative parasite residency, Cezens, France (postponed).  
-2021-2022 - Black Box / White Cube residency at the Meyerhold Centre, Moscow, Russia.  
-2019-2021 - WOW Amsterdam - residency for emerging artists.  
-2018 - SDVIG performing arts studio, St-Petersburg, Russia - residency for dance artists.  
-2017 - STANTSIA, Kostroma, Russia - production residency for choreographers.  
-2017 - ZIL Cultural Centre, Moscow, Russia - Residency for young choreographers.  
+
+2023 Workspace Brussels.  
+2022 bi-residency, Cezens, France.  
+2021-2022 Black Box / White Cube residency at the Meyerhold Centre, Moscow, Russia.   
+2021 IDlab (AHK) - residency for interdisciplinary digital projects.  
+2019-2021 WOW Amsterdam - residency for emerging artists.
+2018 SDVIG performing arts studio, St-Petersburg, Russia - residency for dance artists.  
+2017 STANTSIA, Kostroma, Russia - production residency for choreographers.  
+2017 ZIL Cultural Centre, Moscow, Russia - Residency for young choreographers.  
 
 ##### Teaching experience
 
-2013-2016, Russia - Independent educational project for teenagers and adults Future Today. Workshops on performance, movement research and composition.  
-2017, Leiden - Workshop for photograpahers on working through body.  
-2022, Moscow - Workshop for teenagers on concept development in artistic process.  
-2022, Den Haag - Workshop for art students of KABK on movement and concept development.  
+2022 Workshop “Care as performance, performance as care” at VIA ZUID Makersdag (Heerlen). Advising a graduation piece at SNDO (Amsterdam).  
+2022 Educational session for non-European artists at SNDO (Amsterdam).  
+2022 Workshop on choreographic methods for visual artists at KABK (den Haag).  
+2022 Workshop on concept development for teenagers at Cascade art programme (Moscow).   
+2017 Workshop on performance for photographers (Leiden).
+2014-2016 Workshops on dance, performance and choreography for teenagers and adults at “Future Today” - nonformal education project (Russia).  
 
 ##### Extra training
 
