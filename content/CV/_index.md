@@ -7,7 +7,8 @@ title = "CV"
 
 
 _Born in Moscow, USSR in 1987._  
-_Based in Amsterdam, The Netherlands since 2017._
+_Based in Amsterdam 2017-2022_
+_Based in Berlin since 2022._
 
 ##### Formal Educaction
 

@@ -16,7 +16,7 @@ Presented on 2/03/2022 at Stanislavsky Electrotheatre, Moscow.
 I was born in USSR. Since mid-2000s I traveled a lot to Europe, I've lived in West Germany and Sarajevo for seeral months. In 2017 I moved to Amsterdam and tried very hard to fit in. Since 2021 I was based in Moscow, but in liminal relationship with Amsterdam.  
 This work was about displacement and me trying to find space for my body anywhere as the border between East and West is going through my body.  
 
-On 24/02/2022 my world and my heart broke in pieces.  
+On 24/02/2022 when Russia invaded Ukraine my world and my heart broke in pieces.  
 Now I cannot anymore separate my body from geopolitics.  
 
 Concept, choreography, dance - Marina Orlova  
