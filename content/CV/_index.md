@@ -79,9 +79,9 @@ _dance installation_, Moscow Museum of Contemporary Art Garage.
 2021-2022 Black Box / White Cube residency at the Meyerhold Centre, Moscow, Russia.   
 2021 IDlab (AHK) - residency for interdisciplinary digital projects.  
 2019-2021 WOW Amsterdam - residency for emerging artists.
-2018 SDVIG performing arts studio, St-Petersburg, Russia - residency for dance artists.  
-2017 STANTSIA, Kostroma, Russia - production residency for choreographers.  
-2017 ZIL Cultural Centre, Moscow, Russia - Residency for young choreographers.  
+2018 SDVIG performing arts studio, St-Petersburg, Russia.  
+2017 STANTSIA, Kostroma, Russia.  
+2017 ZIL Cultural Centre, Moscow, Russia.  
 
 ##### Teaching experience
 
