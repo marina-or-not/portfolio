@@ -11,7 +11,7 @@ A duo for a dancer and an AI
 (What if AI was an artist from a third world country?)  
 
 Dance piece (47’)  
-2020, Amsterdam.  
+2020, ROZENSTRAAT - a rose is a rose is a rose, Amsterdam.  
 <!--more-->
 
 Concept, choreography: Marina Orlova  

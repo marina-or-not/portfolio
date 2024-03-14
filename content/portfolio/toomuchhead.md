@@ -10,7 +10,7 @@ weight = 2
 Three dancers and a mentally unstable AI
 
 Dance piece (52’).  
-2021, Amsterdam.  
+2021, Frascati, Amsterdam.  
 
 <!--more-->
 

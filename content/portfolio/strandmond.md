@@ -49,7 +49,7 @@ GIRL. Wait, first of all, why don’t you close back the wardrobe doors? Do I ne
 GUY. Look in that upper one. Nothing there?  
 GIRL. What does it mean - I won’t have breakfast?    
 GUY. Why do you care?  
-GIRL. What…? We need to! I can’t have breakfast alone. There’s no such thing! GUY. Why the hell do I have to eat always at the same time, I’m not hungry! That’s it.  
+GIRL. What…? We need to! I can’t have breakfast alone. There’s no such thing!GUY. Why the hell do I have to eat always at the same time, I’m not hungry! That’s it.  
 GIRL. Listen, (lowering her voice) Pasha, what’s going on?  
 GUY. Nothing, everything’s fine.   
 GIRL. No, it’s not!  

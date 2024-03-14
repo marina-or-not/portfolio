@@ -9,12 +9,12 @@ weight = 12
 
 Dance installation at Contemporary Art Museum Garage, part of SOTA@Garage festival programme.  
 
-2016, Moscow
+2016, Garage Museum of Contemporary Art, Moscow
 
 <!--more-->
 
 Choreographer.  
-With the SOTA 2 team.  
+With the SOTA team.  
 (http://dinakhuseyn.com/sota_2016_2)
 
 ![w2][1]

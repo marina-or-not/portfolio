@@ -7,8 +7,8 @@ title = "Original Choice (Series)"
 weight = 10
 +++
 
-Dance performance project (35-45’).  
-2017, Moscow
+Dance performance project in 5 episodes (35-45’).  
+2017-2019, Moscow, Saint-Petersburg, Frankfurt.
 
 In collaboration with Nastya Kuzmina and Liza Spivakovskaya.
 

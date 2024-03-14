@@ -9,8 +9,8 @@ weight = 1
 
 Dance solo about being stuck between Moscow and Amsterdam.  
 
-Work in progress, 47’  
-Presented on 2/03/2022 at Stanislavsky Electrotheatre, Moscow.   
+Dance piece, 47’  
+2022, Stanislavsky Electrotheatre, Moscow.   
 <!--more-->
 
 I was born in USSR. Since mid-2000s I traveled a lot to Europe, I've lived in West Germany and Sarajevo for seeral months. In 2017 I moved to Amsterdam and tried very hard to fit in. Since 2021 I was based in Moscow, but in liminal relationship with Amsterdam.  

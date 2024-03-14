@@ -10,7 +10,7 @@ weight = 9
 A dance solo that translates the state of human being after changing countries into movements and walls.
 
 Almost site-specific (14’).  
-2018, Amsterdam.
+2018, SNDO, Amsterdam.
 <!--more-->
 
 Choreographer, performer.  

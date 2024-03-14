@@ -10,7 +10,7 @@ weight = 5
 How to build a language with fake gestures, semi-abstract movements and let it all fall.  
 
 Dance piece (35’).  
-2019, Amsterdam.
+2019, SNDO, Amsterdam.
 <!--more-->
 
 Concept, choreographer, performer.   

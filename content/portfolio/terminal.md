@@ -8,7 +8,7 @@ weight = 7
 +++
 
 Radio dance piece (25’).  
-2019, Amsterdam.
+2019, SNDO, Amsterdam.
 <!--more-->
 
 We are the terminal.

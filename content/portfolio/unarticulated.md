@@ -9,7 +9,7 @@ weight = 11
 
 Dance-movie in collaboration with Nastya Kuzmina.  
 
-2016, Moscow.
+2016, The New Space of the Theatre of Nations, Moscow.
 <!--more-->
 
 Video, sound: Nastya Kuzmina  

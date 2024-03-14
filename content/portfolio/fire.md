@@ -11,7 +11,7 @@ Research for a dance concert
 In collaboration with Peter Scherrebeck Hansen
 
 Work-in-progress.  
-2019, Amsterdam.
+2019, SNDO, Amsterdam.
 <!--more-->
 
 ![dra1][1]

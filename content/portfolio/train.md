@@ -8,7 +8,7 @@ weight = 12
 +++
 
 Dance theatre piece (50’).  
-2016-2018, Moscow.
+2016-2018, Sputnik Stage, Moscow.
 <!--more-->
 
 Choreographer.  
