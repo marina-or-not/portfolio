@@ -4,9 +4,7 @@ title = "Algorithms for dance"
 +++
 
 i am a choreographer, dance maker, performer, dance dramaturg and educator.   
-
 i see dance making as a way of knowledge production, inseparable from life and politics.  
-
 
 currently the main themes of my works are:  
 .. ethics of Artificial Intelligence and Data Feminism  
@@ -15,12 +13,10 @@ currently the main themes of my works are:
 .. techonologies of meaning-making and (mis)communication  
   
    
-
 my choreographic tools are movement, text, video, absurdity, despair, irony, risk.  
 i work with the crossovers of biographical, abstract and fictional.
      
-
-     ![porttasha][1]
+![porttasha][1]
 
 bio  
 Marina Orlova (1987, Moscow) is an independent choreographer, performer, dramaturg based between Amsterdam and Moscow.  
