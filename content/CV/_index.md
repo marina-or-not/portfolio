@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "CV"
+title = ""
 +++
 
 _Born in Moscow, USSR in 1987._  
