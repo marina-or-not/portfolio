@@ -4,17 +4,23 @@ draft = false
 image = "img/portfolio/orch1.jpg"
 date = "2016-11-05T19:59:22+05:30"
 title = "Original Choice (Series)"
-weight = 10
+weight = 11
 +++
 
-Dance performance project in 5 episodes (35-45’).  
-2017-2019, Moscow, Saint-Petersburg, Frankfurt.
-
-In collaboration with Nastya Kuzmina and Liza Spivakovskaya.
+Kuleshov's effect study  
+in real time
 
 
 <!--more-->
-Produced in collaboration with ZIL Cultural Center, Moscow, and STANTSIA art venue, Kostroma, Russia.  
+
+Dance performance project in 5 episodes (35-45’)  
+2017-2019, Moscow, Saint-Petersburg, Frankfurt.
+
+_In collaboration with Nastya Kuzmina and Liza Spivakovskaya._
+
+A quest to understand how generation Y fits into meta-modern realness or virtuality. Decisions, hesitations, oscillations in real time. An improvisational duo for a dancer and a video artist.
+
+Produced with the support of ZIL Cultural Center, Moscow, and STANTSIA art venue, Kostroma, Russia.  
 
  Episode 1, 2 Moscow, ZIL Cultural Ceter, June 2017.   
  Episode 3 Frankfurt, Mousonturm, July 2017.  
@@ -25,7 +31,6 @@ Choreographer, performer.
 
 http://originalchoice.tilda.ws/ 
 
-A quest to understand how generation Y fits into meta-modern realness or virtuality. Decisions, hesitations, oscillations in real time. A improvisational duo for a dancer and a video artist.
 
 ![oc1][1]
 

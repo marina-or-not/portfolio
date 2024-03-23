@@ -2,15 +2,18 @@
 draft = false
 image = ""
 date = "2020-05-03T18:25:22+05:30"
-title = "Low Frequency (This Is Not a Podcast)"
-weight = 4
+title = "Low Frequency"
+weight = 14
 +++
 
-A choreographed conversation searching for lightness in the midst of the first Covid lockdown.  
+(This Is Not a Podcast)  
+
+<!--more-->
+
+_Choreographed conversation in search for lightness._  
 
 Online choreographic object (1 45’, durational).  
-2020, Amsterdam.  
-<!--more-->
+2020, SNDO, Amsterdam.  
 
 Livestreamed on 1st July 2020. 
 

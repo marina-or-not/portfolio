@@ -3,9 +3,6 @@ date = "2016-11-05T21:05:33+05:30"
 title = "CV"
 +++
 
-![glaz][1]
-
-
 _Born in Moscow, USSR in 1987._  
 _Based between Amsterdam and Moscow_   
 
@@ -42,10 +39,10 @@ _short film_, *SNDO*, Amsterdam.
 **Buoyancy**, 2018  
 _dance solo_, SNDO, Amsterdam.  
 **Original choice (Series)**, 2017-2019  
-_dance piece (in collaboration with Nastya Kuzmina and Liza Spivakovskaya)_, Zil Cultural Center, Moscow, Mousonturm, Frankfurt, Sdvig, St-Petersburg.  
+_dance piece (in collaboration with Nastya Kuzmina and Liza Spivakovskaya)_, Zil Cultural Center, Moscow; Mousonturm, Frankfurt; SDVIG, St-Petersburg.  
 **(Un)articulated Self**, 2016  
 _Video dance piece (in collaboration with Nastya Kuzmina)_, The New Space of the Theatre of Nations, Moscow.  
-**Train Leaves on Schedule**, 2016 
+**Train Leaves on Schedule**, 2016  
 _dance performance piece_, Sputnik Stage, Moscow.  
 **The Wave**, 2016  
 _dance installation_, Moscow Museum of Contemporary Art Garage.  
@@ -76,9 +73,9 @@ _dance installation_, Moscow Museum of Contemporary Art Garage.
 2023 ON/OFF online residency (ARTLink, Switzerland).  
 2023 Workspace Brussels.  
 2022 bi-residency, Cezens, France.  
-2021-2022 Black Box / White Cube residency at the Meyerhold Centre, Moscow, Russia.   
+2021-2022 Black Box/White Cube at the Meyerhold Centre, Moscow, Russia.   
 2021 IDlab (AHK) - residency for interdisciplinary digital projects.  
-2019-2021 WOW Amsterdam - residency for emerging artists.
+2019-2021 WOW Amsterdam.
 2018 SDVIG performing arts studio, St-Petersburg, Russia.  
 2017 STANTSIA, Kostroma, Russia.  
 2017 ZIL Cultural Centre, Moscow, Russia.  
@@ -86,9 +83,10 @@ _dance installation_, Moscow Museum of Contemporary Art Garage.
 ##### Teaching experience
 
 2023, 2024 Course "Performance as Algorithm" at Cascade Project (Moscow).
-2023 Workshop on performance at "", Kilpola, Karelia.
-2022 Workshop “Care as performance, performance as care” at VIA ZUID Makersdag (Heerlen). Advising a graduation piece at SNDO (Amsterdam).  
-2022 Educational session for non-European artists at SNDO (Amsterdam).  
+2023 Workshop on performance for teenagers at "It can be so" program (Kilpola, Karelia).
+2022 Workshop “Care as performance, performance as care” at VIA ZUID Makersdag (Heerlen).  
+2022 Advising graduation piece at SNDO (Amsterdam).  
+2022 Lecture for non-European artists at SNDO (Amsterdam).  
 2022 Workshop on choreographic methods for visual artists at KABK (den Haag).  
 2022, 2023 Workshops on concept development for teenagers at Cascade prject (Moscow).   
 2017 Workshop on performance for photographers (Leiden).
@@ -99,11 +97,11 @@ _dance installation_, Moscow Museum of Contemporary Art Garage.
 2021-2022  Dangerous Mouses - movement practice group, Amsterdam.    
 2020  Interdisciplinary improvisation workshop by Katie Duck, Amsterdam.  
 2016  Interdisciplinary Contemporary Dance Study Programme “SOTA” at Moscow Museum of Contemporary Art “Garage”.  
-2012-2016  Various workshops on contemporary dance, dance performance, contact improvisation, physical theatre, somatics and ideokinesis in Russia and abroad (SNDO, Amsterdam, Centre National de la Danse, Paris, Fuerteventura, Spain, etc).  
+2012-2016  Workshops on contemporary dance, dance performance, contact improvisation, physical theatre, somatics and ideokinesis in Russia and abroad (SNDO, Amsterdam, Centre National de la Danse, Paris, etc).  
 2012-2016  International Centre for Dance and Performance TsEKh (Moscow): classes in contemporary dance, performance, dance theatre.  
-
-
-
-
+  
+  
+  
+![glazz][1]
 
 [1]: /img/portfolio/glazz.jpg

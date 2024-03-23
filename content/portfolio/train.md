@@ -7,14 +7,17 @@ title = "Train Leaves On Schedule"
 weight = 12
 +++
 
-Dance theatre piece (50’).  
-2016-2018, Sputnik Stage, Moscow.
+Social institute of madness
+
 <!--more-->
+
+Dance theatre piece (50’)  
+2016-2018, Sputnik Stage, Moscow.  
 
 Choreographer.  
 With Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev.
 
-Abstract interpretation of a personal experience of being institutionalised Soviet-style.
+Abstract interpretation of a personal experience of being institutionalised in a Soviet-style mental hospital.
 
 
 ![train2][1]

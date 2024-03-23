@@ -4,14 +4,17 @@ image = ""
 showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "STRANDMOND"
-weight = 15
+weight = 24
 +++
+a play  
+
+<!--more-->
 
 *(please, do not dance)*  
-
-a play  
+  
 2013, Moscow
-<!--more-->
+
+
 written in collaboration with Anastasia Matisova
  
 

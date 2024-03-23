@@ -4,14 +4,14 @@ title = "BIAS"
 draft = false
 image = "img/portfolio/tv3.jpg"
 showonlyimage = false
-weight = 5
+weight = 9
 +++
-
-How to build a language with fake gestures, semi-abstract movements and let it all fall.  
-
-Dance piece (35’).  
-2019, SNDO, Amsterdam.
+How to build a language with fake gestures, semi-abstract movements and let it all fall  
+ 
 <!--more-->
+
+Dance piece (35’)  
+2019, SNDO, Amsterdam.
 
 Concept, choreographer, performer.   
 With: Tea Teearu and Alexander Blum.  

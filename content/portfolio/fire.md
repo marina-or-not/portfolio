@@ -4,15 +4,18 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Playing With Fire"
 draft = false
-weight = 6
+weight = 23
 +++
 
 Research for a dance concert  
+
+<!--more-->
+
 In collaboration with Peter Scherrebeck Hansen
 
 Work-in-progress.  
-2019, SNDO, Amsterdam.
-<!--more-->
+2019, SNDO, Amsterdam.  
+  
 
 ![dra1][1]
 

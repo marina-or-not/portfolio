@@ -4,15 +4,15 @@ title = "too much in the head"
 draft = false
 image = "img/portfolio/toomuch8.jpeg"
 showonlyimage = false
-weight = 2
+weight = 6
 +++
 
 Three dancers and a mentally unstable AI
 
-Dance piece (52’).  
-2021, Frascati, Amsterdam.  
-
 <!--more-->
+
+Dance piece (52’)  
+2021, Frascati, Amsterdam.  
 
 What do we know about the inner life of Artificial Intelligence?  
 How are the thoughts moving there?  

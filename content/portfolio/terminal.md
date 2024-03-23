@@ -4,15 +4,16 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Terminal"
 draft = false
-weight = 7
+weight = 16
 +++
 
-Radio dance piece (25’).  
-2019, SNDO, Amsterdam.
+We are the terminal.  
+Stay tuned
+
 <!--more-->
 
-We are the terminal.
-Stay tuned.
+Radio dance piece (25’)  
+2019, SNDO, Amsterdam.
 
 Concept, choreographer, performer.   
 With Julia Vavra.  

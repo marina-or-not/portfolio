@@ -4,16 +4,16 @@ title = "A lot to unpack / Всё сложно"
 draft = false
 image = "img/portfolio/0unpack_red.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 
-Dance solo about being stuck between Moscow and Amsterdam.  
-
-Dance piece, 47’  
-2022, Stanislavsky Electrotheatre, Moscow.   
+Solo about being stuck between Moscow and Amsterdam  
+  
 <!--more-->
+Dance piece (47’)  
+2022, Stanislavsky Electrotheatre, Moscow. 
 
-I was born in USSR. Since mid-2000s I traveled a lot to Europe, I've lived in West Germany and Sarajevo for seeral months. In 2017 I moved to Amsterdam and tried very hard to fit in. Since 2021 I was based in Moscow, but in liminal relationship with Amsterdam.  
+I was born in USSR. Since mid-2000s I traveled a lot to Europe. In 2017 I moved to Amsterdam and tried very hard to fit in. Since 2021 I was based in Moscow, but in liminal relationship with Amsterdam.  
 This work was about displacement and me trying to find space for my body anywhere as the border between East and West is going through my body.  
 
 On 24/02/2022 when Russia invaded Ukraine my world and my heart broke in pieces.  

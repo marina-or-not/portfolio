@@ -4,15 +4,17 @@ image = "img/portfolio/wave1.jpg"
 showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
 title = "The Wave"
-weight = 12
+weight = 22
 +++
 
-Dance installation at Contemporary Art Museum Garage, part of SOTA@Garage festival programme.  
-
-2016, Garage Museum of Contemporary Art, Moscow
+Unstoppable algorithm for 12 bodies
 
 <!--more-->
 
+Dance installation at Contemporary Art Museum Garage, part of SOTA@Garage festival programme.  
+  
+2016, Garage Museum of Contemporary Art, Moscow
+  
 Choreographer.  
 With the SOTA team.  
 (http://dinakhuseyn.com/sota_2016_2)
@@ -21,7 +23,7 @@ With the SOTA team.
 
 ![w3][2]  
 
-An unstoppable algorithm for 12 bodies.
+  
 
 {{< vimeo 205100387 >}}  
 

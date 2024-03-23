@@ -4,14 +4,18 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "(Un)articulated Self"
-weight = 11
+weight = 20
 +++
 
-Dance-movie in collaboration with Nastya Kuzmina.  
+Stray dogs do cry
 
-2016, The New Space of the Theatre of Nations, Moscow.
+
 <!--more-->
 
+Dance-movie in collaboration with Nastya Kuzmina.
+  
+2016, The New Space of the Theatre of Nations, Moscow.
+  
 Video, sound: Nastya Kuzmina  
 Choreography: Marina Orlova  
 Dance: Katya Kaluzhnaya, Dmitry Volkov, Taras Burnashev
