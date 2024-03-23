@@ -29,7 +29,7 @@ Emilia Grzeczka - video design
   
 Supported by AFK, Creative Industries NL, Amarte fonds, IDlab, Workspace Brussels, ON/OFF residency.  
   
-![RRobther][1] 
+![RRobcode][1] 
   
 This project crosses ideas of neurodiversity and responsible AI. It presents a paradoxical entity of a “mentally unstable AI” and speculates about its “therapeutic needs”. The AI is represented by a chatbot engineered specifically for this project and trained with a unique dataset of interviews with people who identify as neurodivergent or mentally unstable. 
 It is generating text in real time on stage therefore all the dialogues are improvised. 
@@ -45,7 +45,7 @@ Trailer
 {{< youtube DKAqOaQx824 >}}  
 
 
-[1]: /img/portfolio/RRobther.jpg
+[1]: /img/portfolio/RRobcode.jpg
 [2]: /img/portfolio/RRobgirl4.jpg
 [3]: /img/portfolio/RRobhack.jpg
 [4]: /img/portfolio/RRobgirl3.jpg
