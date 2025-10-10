@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "FIREWALL"
 draft = false
-image = "img/portfolio/FIREhack.jpg"
+image = "img/portfolio/FIREtripod.jpg"
 showonlyimage = false
 weight = 11
 +++
@@ -30,7 +30,7 @@ _What is the purpose of your visit?_
   
 _Firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall establishes a barrier between a trusted network and an untrusted network._  
   
-![FIREtripod][4]  
+![FIREhack][10]  
 
 _Absence is the new presence._  
   
@@ -60,3 +60,4 @@ Photos by Konstantin Surikov
 [7]: /img/portfolio/FIREpush.jpg
 [8]: /img/portfolio/FIREukr.jpg
 [9]: /img/portfolio/FIREwind.jpg
+[10]: /img/portfolio/FIREhack.jpg
