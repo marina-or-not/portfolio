@@ -4,7 +4,7 @@ title = "too much in the head"
 draft = false
 image = "img/portfolio/toomuch8.jpeg"
 showonlyimage = false
-weight = 6
+weight = 14
 +++
 
 Three dancers and a mentally unstable AI

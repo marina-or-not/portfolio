@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Buoyancy"
 draft = false
-weight = 10
+weight = 17
 +++
 
 How to translate the state of a human being after changing countries into movements and walls

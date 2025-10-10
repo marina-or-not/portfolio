@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/orch1.jpg"
 date = "2016-11-05T19:59:22+05:30"
 title = "Original Choice (Series)"
-weight = 11
+weight = 18
 +++
 
 Kuleshov's effect study  

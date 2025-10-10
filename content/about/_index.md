@@ -2,13 +2,13 @@
 date = "2016-11-05T21:05:33+05:30"
 title = "Algorithms for dance"
 +++
-i am a choreographer, dance maker, performer, dance dramaturg and educator.  i see dance making as a way of knowledge production, inseparable from life and politics.  
+i am a choreographer, theatre maker, performer, dance and tech dramaturg and educator.  i see art making as a way of knowledge production, inseparable from life and politics.  
 ..  
 main themes of my work:  
 _.. ethics of Artificial Intelligence and Data Feminism_  
 _.. Mad Studies: "mental illness", neurodiversity and mental health care system_  
 _.. migration, displacement, border politics_  
-_.. low-tech of meaning-making and (mis)communication)_  
+_.. low-tech of meaning-making and (mis)communication_  
 ..     
 my choreographic tools are movement, text, video, irony, despair, risk, absurdity and the crossovers of biographical, abstract and fictional.  
 ..       

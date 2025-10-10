@@ -3,7 +3,7 @@ draft = false
 image = ""
 date = "2020-05-03T18:25:22+05:30"
 title = "Low Frequency"
-weight = 14
+weight = 20
 +++
 
 (This Is Not a Podcast)  

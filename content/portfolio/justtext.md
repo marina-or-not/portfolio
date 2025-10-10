@@ -4,7 +4,7 @@ title = "But I'm Just a Text"
 draft = false
 image = "img/portfolio/but0.jpg"
 showonlyimage = false
-weight = 7
+weight = 15
 +++
 
 A duo for a dancer and a non-european AI  

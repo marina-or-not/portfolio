@@ -4,10 +4,10 @@ image = "img/portfolio/videolect.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Dance, Neurodiversity and Robots"
 showonlyimage = false
-weight = 4
+weight = 12
 +++
 
-Mad Studies  
+Mad Studies    
 (videolecture)  
 
 <!--more-->  
@@ -26,6 +26,6 @@ Most of my life I’ve been struggling with my brain.  I was diagnosed, I was mi
 
 
 {{< youtube zCvTwdHm6-A >}}  
-
-.
+  
+[1]: /img/portfolio/videolect.jpeg
 

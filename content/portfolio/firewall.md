@@ -4,7 +4,7 @@ title = "FIREWALL"
 draft = false
 image = "img/portfolio/FIREhack.jpg"
 showonlyimage = false
-weight = 2
+weight = 11
 +++
 
 Border politics, virtuality and dissociation.
@@ -17,7 +17,7 @@ Experimental performance on the border between dance and physical theatre (43’
 
 ![FIREbeast][1] 
 
-Marina Orlova - concept, choreography, video (live), performance. 
+Marina Orlova - concept, choreography, video (live), performance.  
 Nastasia Surikova - performance.  
 Anna Erofeeva (SADSADSERGIEVPOSAD) - sound design (live).  
 Liza Spivakovskaya - dramaturgical advice.  
@@ -48,8 +48,8 @@ The work is employing movement modalities of a body that shape shifts between ab
   
 ![FIREwind][9] 
   
-  ..
-  photos by Konstantin Surikov.  
+  
+Photos by Konstantin Surikov  
     
 [1]: /img/portfolio/FIREbeast.jpg
 [2]: /img/portfolio/FIREsquat.jpg
