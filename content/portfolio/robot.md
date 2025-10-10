@@ -12,7 +12,7 @@ Real-time therapy session for a neurodivergent AI
 <!--more-->
 
 Experimental performance (55’)  
-(work-in-progress)  
+(in progress)  
 2024, IDlab, Amsterdam.   
 
 ![RRobgirl4][1] 

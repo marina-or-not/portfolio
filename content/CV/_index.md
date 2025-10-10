@@ -2,10 +2,13 @@
 date = "2016-11-05T21:05:33+05:30"
 title = ""
 +++
-
+  
+###### (photo by Tasha Arlova)   
+![porttasha][1]
+  
 _Born in Moscow, USSR in 1987._  
 _Based between Amsterdam and Moscow_   
-
+  
 ##### Formal Educaction
 
 2022 - Institute for Applied Theatre Studies (ATW) at JLU Giessen - *Choreography and performance*.  
@@ -47,7 +50,7 @@ _dance performance piece_, Sputnik Stage, Moscow.
 **The Wave**, 2016  
 _dance installation_, Moscow Museum of Contemporary Art Garage.  
 
-###### Performing and collaborating
+##### Performing and collaborating
 
 2022 - _We live here: Maastricht_ - research project by MOHA.  
 2022 - _Onze Roeping - On Joyful Militancy_ - performance by Mercedes Azpilicueta, shown at Rozenstraat – a rose is a rose is a rose, Kunstmuseum Liechtenstein.  
@@ -69,12 +72,12 @@ _dance installation_, Moscow Museum of Contemporary Art Garage.
 
 ##### Residencies
 
-2024 IDlab (AHK), Amsterdam.  
+2024 IDlab Amsterdam - residency for interdisciplinary digital projects.  
 2023 ON/OFF online residency (ARTLink, Switzerland).  
 2023 Workspace Brussels.  
 2022 bi-residency, Cezens, France.  
 2021-2022 Black Box/White Cube at the Meyerhold Centre, Moscow, Russia.   
-2021 IDlab (AHK) - residency for interdisciplinary digital projects.  
+2021 IDlab Amsterdam 
 2019-2021 WOW Amsterdam.
 2018 SDVIG performing arts studio, St-Petersburg, Russia.  
 2017 STANTSIA, Kostroma, Russia.  
@@ -101,7 +104,5 @@ _dance installation_, Moscow Museum of Contemporary Art Garage.
 2012-2016  International Centre for Dance and Performance TsEKh (Moscow): classes in contemporary dance, performance, dance theatre.  
   
   
-  
-![glazz][1]
 
-[1]: /img/portfolio/glazz.jpg
+[1]: /img/portfolio/porttasha.jpg
