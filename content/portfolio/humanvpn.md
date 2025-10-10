@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 7
 +++
 
-Dance-graffiti.
+Dance-graffiti 
  
 <!--more-->
 
@@ -34,7 +34,7 @@ Co-produced by Marina Orlova, Un-Label Studio, Frascati Producties, Orangerie-Th
 
     
 [1]: /img/portfolio/_0AntarctStand.jpg
-[2]: /img/portfolio/_0HumanVPN_research_photo.jpeg
+[2]: /img/portfolio/_0HumanVPN_research_photo.jpg
 [3]: /img/portfolio/_0spiderman.jpg
 [5]: /img/portfolio/0_spiderBering.jpg
 [6]: /img/portfolio/0_spiderSlaveLake.jpg
