@@ -33,9 +33,9 @@ Co-produced by Marina Orlova, Un-Label Studio, Frascati Producties, Orangerie-Th
 ![0_spidersquat][7]  
 
     
-[1]: /static/img/portfolio/_0AntarctStand.jpeg
-[2]: /img/portfolio/_0HumanVPN_research_photo.jpeg
-[3]: /img/portfolio/_0spiderman.jpeg
+[1]: /img/portfolio/0AntarctStand.jpeg
+[2]: /img/portfolio/0HumanVPN_research_photo.jpeg
+[3]: /img/portfolio/0spiderman.jpeg
 [5]: /img/portfolio/0_spiderBering.jpg
 [6]: /img/portfolio/0_spiderSlaveLake.jpg
 [4]: /img/portfolio/0_Misery.jpg
