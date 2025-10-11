@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Human.VPN //Someplace_else"
 draft = false
-image = "img/portfolio/_0AntarctStand.jpg"
+image = "img/portfolio/_0AntarctStand.jpeg"
 showonlyimage = false
 weight = 7
 +++
@@ -33,9 +33,9 @@ Co-produced by Marina Orlova, Un-Label Studio, Frascati Producties, Orangerie-Th
 ![0_spidersquat][7]  
 
     
-[1]: /img/portfolio/_0AntarctStand.jpg
-[2]: /img/portfolio/_0HumanVPN_research_photo.jpg
-[3]: /img/portfolio/_0spiderman.jpg
+[1]: /img/portfolio/_0AntarctStand.jpeg
+[2]: /img/portfolio/_0HumanVPN_research_photo.jpeg
+[3]: /img/portfolio/_0spiderman.jpeg
 [5]: /img/portfolio/0_spiderBering.jpg
 [6]: /img/portfolio/0_spiderSlaveLake.jpg
 [4]: /img/portfolio/0_Misery.jpg
