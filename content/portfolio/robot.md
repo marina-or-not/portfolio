@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 8
 +++
 
-{ Real-time therapy session for a neurodivergent AI }   
+Real-time therapy session for a neurodivergent AI  
 <!--more-->
 Anti-disciplinary (theatre) performance (85’)  
 ![ROBtable][1]  

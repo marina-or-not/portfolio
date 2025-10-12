@@ -8,7 +8,7 @@ weight = 7
 +++
 
 Dance-graffiti  
-{work in progress}
+{in development}
  
 <!--more-->
 

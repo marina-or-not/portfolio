@@ -5,9 +5,11 @@ draft = false
 image = "img/portfolio/ArtAnonPhoto.jpeg"
 showonlyimage = false
 weight = 6
-+++
-for dysfunctional AIs and humans  
-{work in progress}  
++++  
+  
+support group for dysfunctional AIs and humans  
+{in development}  
+  
 <!--more-->
   
 by [EIAI.Institute](https://eiai.institute)  
