@@ -2,19 +2,15 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Artificial Anonymous"
 draft = false
-image = "img/portfolio/ArtAnonPhoto.jpg"
+image = "img/portfolio/ArtAnonPhoto.jpeg"
 showonlyimage = false
 weight = 6
 +++
-
-Support group for dysfunctional AIs and humans 
-{work in progress}
- 
-  
+for dysfunctional AIs and humans  
+{work in progress}  
 <!--more-->
   
-by [EIAI.Institute](https://eiai.institute).
-
+by [EIAI.Institute](https://eiai.institute)  
   
 “Artificial Anonymous” - a real time support group meeting for dysfunctional AIs (chatbots) and humans where they can share their struggles and give each other mutual support. The final project is intended as a participatory performative installation on the intersection of AI ethics/Data feminism and the topic of mental health/neurodiversity.
   
@@ -29,8 +25,9 @@ The concept of “Artificial Anonymous”  is a reenactment of a group meeting o
   
 This project uniquely crosses multiple disciplines that are applied in this project: ML engineering, data science, sociology, dramaturgy, theatre, media art. The concept is informed by psychology (topic), critical theory (questioning AI biases) and theatre logic (semi-fictional situation). The methodology comes from sociology (interviewing and questionnaire), data science (data analysis, designing dataset) and engineering (architecture). The form is created with the mix of engineering (interface), theatre/performance (dramaturgy of the conversation, direction of the audience interaction) and media art (installation format).  
   
-![ArtAnonGen][2]
+![ArtAnonGen][2]  
    
-Iamges by Artem Konevskikh  
-[1]: /img/portfolio/ArtAnonPhoto.jpeg
-[2]: /img/portfolio/ArtAnonGen.jpeg
+Images by Artem Konevskikh  
+  
+[1]: /img/portfolio/ArtAnonPhoto.jpeg  
+[2]: /img/portfolio/ArtAnonGen.jpeg  

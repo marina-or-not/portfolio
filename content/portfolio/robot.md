@@ -50,9 +50,9 @@ Light design, video design: Nazar Rakhmanov
 **Outside eye:** Tiana Hemlock-Yensen  
 **Creative process facilitation:** Burkhard Körner  
 **Production:** Marina Orlova, with support of IDlab (AHK) and Veem House for Performance  
-**Supported by:** AFK, Creative Industries NL, Wilhelmina E. Jansen Fonds, Culture Moves Europe, Workspace Brussels, ON/OFF residency, Amarte fonds.
+**Supported by:** AFK, Creative Industries NL, Wilhelmina E. Jansen Fonds, Culture Moves Europe, Workspace Brussels, ON/OFF residency, Amarte fonds  
 **Research phase collaborators:** Biljana Radinoska, Emilia Grzeczka, Gregory Dyachkov  
-**Special thanks to** Raoni Saleh, Yves Regenass, Gala Faraus, Liza Spivakovskaya, Erik Lint, Willem Weemhoff, Jos Daamen, Asya Deinekina, Charlot Van Der Meer, Sonya Golovkova, Tasha Arlova, Alice Pons, Olivia Reschofsky and many others.
+**Special thanks to** Raoni Saleh, Yves Regenass, Gala Faraus, Liza Spivakovskaya, Erik Lint, Willem Weemhoff, Jos Daamen, Asya Deinekina, Charlot Van Der Meer, Sonya Golovkova, Tasha Arlova, Alice Pons, Olivia Reschofsky and many others  
 
 ![ROBtrip][10]  
 
@@ -69,7 +69,8 @@ subject. It obtains agency not by competing in creating
 material with the artist, but by being equally vulnerable.
 By asking it how it feels we give it subjectivity that
 creates a double layer of absurdity and a model of our
-potential future.  
+potential future.   
+  
 This work puts the concept of AI with all its powers, promises,
 dangers and flaws as a mirror to the issues within our society in
 order to open a dialogue about our capacity for empathy and
@@ -80,7 +81,8 @@ own species who do not fit the standards of normalcy. What is
 our responsibility as “parents” of the AI to deal with its
 hereditary character flaws and biases? What does it say about
 us if we are not seeing this as a responsibility? What if an AI
-would seek to talk to a professional about its “upbringing”?  
+would seek to talk to a professional about its “upbringing”?   
+   
 This project has 3 layers of research: theatrical use of language models; ethical and philosophical aspects of AI
 technology; stigmatized topics of mental health told from personal experience. This performance invites both emotional
 and analytical resonance by revealing the interconnectedness of personal conditions and social constructs and

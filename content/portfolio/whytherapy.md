@@ -6,8 +6,8 @@ image = "img/portfolio/00Steve.jpg"
 showonlyimage = false
 weight = 9
 +++
-  
-Lecture-performance by EIAI.Institute
+Lecture-performance  
+by EIAI.Institute
   
 <!--more-->
   
