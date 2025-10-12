@@ -50,7 +50,7 @@ Light design, video design: Nazar Rakhmanov
 **Outside eye:** Tiana Hemlock-Yensen  
 **Creative process facilitation:** Burkhard Körner  
 **Production:** Marina Orlova, with support of IDlab (AHK) and Veem House for Performance  
-**Supported by:** AFK, Creative Industries NL, Wilhelmina E. Jansen Fonds, Workspace Brussels, ON/OFF residency, Amarte fonds.
+**Supported by:** AFK, Creative Industries NL, Wilhelmina E. Jansen Fonds, Culture Moves Europe, Workspace Brussels, ON/OFF residency, Amarte fonds.
 **Research phase collaborators:** Biljana Radinoska, Emilia Grzeczka, Gregory Dyachkov  
 **Special thanks to** Raoni Saleh, Yves Regenass, Gala Faraus, Liza Spivakovskaya, Erik Lint, Willem Weemhoff, Jos Daamen, Asya Deinekina, Charlot Van Der Meer, Sonya Golovkova, Tasha Arlova, Alice Pons, Olivia Reschofsky and many others.
 

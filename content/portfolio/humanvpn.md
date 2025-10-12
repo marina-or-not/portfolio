@@ -2,22 +2,23 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Human.VPN //Someplace_else"
 draft = false
-image = "/static/img/portfolio/_0AntarctStand.jpeg"
+image = "img/portfolio/0AntarctStand.jpeg"
 showonlyimage = false
 weight = 7
 +++
 
-Dance-graffiti 
+Dance-graffiti  
+{work in progress}
  
 <!--more-->
 
-![_0HumanVPN_research_photo][2]  
+![0HumanVPN_research_photo][2]  
 
 “Human.VPN//someplace_else” - a performance that connects border politics and virtual political expression. Two performers are interacting with projection of a live operated geo-mapping tool, following physical, fictional and digital trajectories. VPN is a tool to misrepresent digital location, dissociation is a coping mechanism of emotional detachment from reality. Human.VPN is a metaphor for a dissociation between one’s digital and analogue geolocation, a tool for hacking political, digital, and psychological borders between people. 
 
 In the current world migrants’ physical movement is echoed by social media users’ virtual movement in reaction to political events happening “someplace else”. Meanwhile media wars affect our critical thinking and political polarisation only contributes to our shared geopolitical disorientation. This work is an invitation to join a “collective geography lesson” without shame of not knowing and engage in an open discussion afterwards. Instead of othering and dividing, the intention is to create a space where we can go beyond our own trajectories, our knowledge and relation to the geopolitical events and instead focus on our global interconnectedness. 
 
-![_0spiderman][3]  
+![0spiderman][3]  
 
 Marina Orlova - concept, choreography, (live) video, performance.   
 Arieh Chrem - (live) sound design.  
