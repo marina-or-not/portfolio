@@ -4,14 +4,14 @@ title = "Human.VPN/ someplace_else"
 draft = false
 image = "img/portfolio/vpn_dok_spiderdance.jpg"
 showonlyimage = false
-weight = 7
+weight = 1
 +++
 
 (dance graffiti) 
  
 <!--more-->
-
-![vpndok_amsterdam][1]  
+  
+**Trailer**{{< youtube y-qA8yLoTiw >}}   
   
 [Show dates: 22,23,24.10.26 at Frascati Theater Amsterdam (premiere)](https://www.frascatitheater.nl/en/agenda/human-vpn-someplace-else-dance-graffiti-hwj7)
   
