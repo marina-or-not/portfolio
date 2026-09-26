@@ -11,7 +11,7 @@ weight = 1
  
 <!--more-->
   
-**Trailer**{{< youtube y-qA8yLoTiw >}}   
+**Trailer**{{< youtube y-qA8yLoTiw >}}  
   
 [Show dates: 22,23,24.10.26 at Frascati Theater Amsterdam (premiere)](https://www.frascatitheater.nl/en/agenda/human-vpn-someplace-else-dance-graffiti-hwj7)
   
