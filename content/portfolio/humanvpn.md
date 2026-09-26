@@ -4,7 +4,7 @@ title = "Human.VPN/ someplace_else"
 draft = false
 image = "img/portfolio/vpn_dok_spiderdance.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 
 (dance graffiti) 
