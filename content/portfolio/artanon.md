@@ -21,7 +21,7 @@ by [EIAI.Institute](https://eiai.institute)
 The concept of “Artificial Anonymous”  is a reenactment of a group meeting of a fictionalized therapy group or 12-steps program for dysfunctional AIs and humans. The group consists of several different chatbots/LLMs trained specifically for this piece that are generating answers in real time and a performer who is moderating the meeting and all its participants. Spectators are invited to participate in the meeting and share or observe physically or online. The moderator/performer will be facilitating the course of dramaturgical improvised action of the performance, but the content (what happens in the conversation among the group) will be produced by the chatbots and audience members who chose to participate.  
   
 **Concept, dramaturgy, directing, performance:** Marina Orlova  
-**Programming:** Artyom Konevskikh  
+**Programming:** Artem Konevskikh  
 **Sound design:** Arieh Chrem  
 **Supported by** Creative Flip Project and Creative Industries Fund NL.    
   
