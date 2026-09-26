@@ -48,8 +48,8 @@ Big thanks to: Irina Orlova, Alexandra Orlova, Frederike Manders, Sonia Kazovsky
    
 photos by Roman Zotter and Sonya Golovkova  
     
-[1]: /img/portfolio/vpndok_amsterdam.jpeg
-[2]: /img/portfolio/vpndok_resistsims.jpeg
+[1]: /img/portfolio/vpndok_amsterdam.jpg
+[2]: /img/portfolio/vpndok_resistsims.jpg
 [4]: /img/portfolio/vpn_dok_spkhart.jpg
 [5]: /img/portfolio/vpn_dok_truth.jpg
 [3]: /img/portfolio/vpndok_push.jpg
