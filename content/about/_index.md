@@ -15,12 +15,12 @@ my choreographic tools are movement, text, video, irony, despair, risk, absurdit
 ![RRobcode][1]
 ..  
 ##### _b i o_  
-Marina Orlova (1987, Moscow) is an independent choreographer, performer, dramaturg based between Amsterdam and Moscow.  
-After receiving education in sociology and cultural studies, Marina has been studying and making dance since 2012. She graduated from SNDO at the Amsterdam Academy of Theatre and Dance in 2021. Over the years she presented her works in Russia, Germany and The Netherlands, performed and collaborated with choreographers, visual and sound artists. Her main  topics are mental health, tech ethics and migration. Her aesthetics is tragicomedy and absurdism.  
-Since 2020 Marina has been working with the concept of responsible AI and developed a methodology of creating paradoxical and political chatbot-performers: non-European AI (“But I’m just a Text”, 2020, Rose is a Rose gallery, Amsterdam), neurodivergent AI (“too much in the head”, 2021, Frascati, Amsterdam). With “I am a Robot and I need Therapy” these projects compile a series of exceptional artistic and technical complexity. Marina takes the role of a mediator between engineering logic and theatre apparatus in order to explore the process of meaning-making at the collision of the two worlds.  
-Marina’s current artistic practice also includes writing, teaching, advising and facilitating a support group for artists.   
+ 
 ..  
   
   [1]: /img/portfolio/RRobcode.jpeg
 
-
+Marina Orlova (1987) is an independent dance/theatre maker, tech-dramaturg and AI researcher based in Amsterdam. She received education in sociology in Moscow and in experimental choreography at the Amsterdam Academy of Theatre and Dance. 
+Marina works with topics of human-AI relationships, mental health, migration and border politics. She creates interdisciplinary performances that combine her background in sociology, curiosity for technology, choreographic methodologies and lived knowledge of marginalised communities. Marina mediates between engineering logic and theatrical devices, using technology as both metaphor and mirror to societal issues. She works within aesthetics of absurdism, tragicomedy and autofiction.
+Marina’s theatre performance “I’m a Robot and I need Therapy” was presented at  Frascati Theater in Amsterdam, Veem House for Performance, Flam Festival, Next Level Festival in Dortmund, Worm Rotterdam.  Her lecture-performance “Why robots need therapy” was presented at the Next Nature Digital Wellness Show; Society 5.0 Festival; de Balie; Mesh Festival (Basel); Korzo Theater; Iterations Symposium; and in various academic settings.
+Marina’s artistic practice also includes writing, teaching and facilitating a support group for “artists in distress”.
