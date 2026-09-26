@@ -13,7 +13,7 @@ weight = 1
   
 [Show dates: 22,23,24.10.26 at Frascati Theater Amsterdam (premiere)](https://www.frascatitheater.nl/en/agenda/human-vpn-someplace-else-dance-graffiti-hwj7)
   
-**Trailer**{{< youtube y-qA8yLoTiw >}}  
+{{< youtube y-qA8yLoTiw >}}  
   
 It is a hybrid dance/digital performance that connects topics of virtual presence, border politics and psychological dissociation. It investigates the position of a virtual witness and feeling of geopolitical disorientation.  
   
